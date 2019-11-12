@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CarsGenerator.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarArea.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SmartTrafficLight.cs" Line="117" Column="26" />
+      <File FileName="Assets\Scripts\Track.cs" Line="43" Column="4" />
+      <File FileName="Assets\Scripts\Path.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Junction.cs" Line="30" Column="65" />
+      <File FileName="Assets\Scripts\CarsGenerator.cs" Line="11" Column="30" />
+      <File FileName="Assets\Scripts\CarEngine.cs" Line="167" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
